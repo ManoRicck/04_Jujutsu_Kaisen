@@ -117,7 +117,7 @@
     top: -80px; /* Ajuste conforme necessário para posicionar a logo acima do título */
     left: 40%; /* Ajuste conforme necessário para posicionar a logo horizontalmente */
     transform: translateX(-50%);
-    background-image: url('img/logo-jujutsu-kaisen.png');
+    background-image: url('../img/logo-jujutsu-kaisen.png');
     width: 300px; /* Ajuste conforme necessário */
     height: 110px; /* Ajuste conforme necessário */
     background-size: cover;
