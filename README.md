@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/07947dcb-8b96-4160-8ce9-0c007b96b782
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39db7751-2b64-4833-999a-bec92a6a5e0d" alt="Carro" height="100">
+  <img src="https://github.com/user-attachments/assets/eea3bdb0-72e1-409b-9e3e-5b7ed94d43c9" alt="Carro" height="100">
 </div>
 <h1 align="center">  
   Jujutsu Kaisen – Galeria de Personagens
@@ -15,7 +15,8 @@ https://github.com/user-attachments/assets/07947dcb-8b96-4160-8ce9-0c007b96b782
 
 <br>  
 
-<div align="center">  
+<div align="center">
+
 
 | Tecnologia | Uso no Projeto | Documentação |  
 |------------|----------------|--------------|  
