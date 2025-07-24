@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/07947dcb-8b96-4160-8ce9-0c007b96b782
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eea3bdb0-72e1-409b-9e3e-5b7ed94d43c9" alt="Carro" height="100">
+  <img src="https://github.com/user-attachments/assets/eea3bdb0-72e1-409b-9e3e-5b7ed94d43c9" alt="Gojo" height="200">
 </div>
 <h1 align="center">  
   Jujutsu Kaisen – Galeria de Personagens
@@ -34,9 +34,8 @@ Este projeto apresenta uma galeria interativa com slides dos principais personag
 <br>
 
 Catálogo digital de carros com:  
-- 🖼️ **Galeria de veículos** (esportivos, clássicos, luxo)  
-- 🔍 **Descrição** (por marca, ano, tipo)  
-- 💡 **Detalhes expandidos** em cada carro  
+- 🖼️ **Galeria de personagens**
+- 🔍 **Descrição**   
 
 ---  
 
@@ -48,8 +47,8 @@ Catálogo digital de carros com:
 │   ├── css/
 │   │   └── style.css
 │   └── img/
-│   │    ├── car1.jpg
-│   │    ├── car2.jpg
+│   │    ├── per1.jpg
+│   │    ├── per2.jpg
 │   │    └── ...
 │   ├── js/
 │   │   └── script.js
