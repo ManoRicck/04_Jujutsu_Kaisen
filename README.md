@@ -10,7 +10,6 @@ https://github.com/user-attachments/assets/07947dcb-8b96-4160-8ce9-0c007b96b782
 <div align="center">  
   <img src="https://img.shields.io/badge/HTML5-Estrutura-orange?logo=html5&style=for-the-badge" alt="HTML5" height="30">  
   <img src="https://img.shields.io/badge/CSS3-Estilo-blue?logo=css3&style=for-the-badge" alt="CSS3" height="30">  
-  <img src="https://img.shields.io/badge/JavaScript-Interatividade-yellow?logo=javascript&style=for-the-badge" alt="JavaScript" height="30">  
 </div>  
 
 <br>  
