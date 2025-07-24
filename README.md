@@ -62,7 +62,7 @@ Catálogo digital de carros com:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ManoRicck/03-Garagem_de_Carros.git
+git clone https://github.com/ManoRicck/04_Jujutsu_Kaisen.git
 ```
 2. Execute o arquivo html:
 ```bash
